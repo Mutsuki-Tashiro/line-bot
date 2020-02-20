@@ -57,4 +57,4 @@ wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==1.0.0
 widgetsnbextension==3.5.1
-zipp==2.2.0
+zipp==2.2.0zs
